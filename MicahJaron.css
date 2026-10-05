@@ -142,18 +142,18 @@ font-size: 60%;
 
 /* LINK STYLING */
 a:link {
-  color: black
+  color: rgba(0, 0, 0, 0.0)
 }
 
 a:visited {
-  color: black
+  color: rgba(0, 0, 0, 0.0)
 }
 
 a:hover {
-  color: black
+  color: rgba(0, 0, 0, 0.0)
 }
 
 a:active {
-  color: black
+  color: rgba(0, 0, 0, 0.0)
 }
 
