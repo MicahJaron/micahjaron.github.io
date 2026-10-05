@@ -139,21 +139,3 @@ margin: auto;
 #ending {
 font-size: 60%;
 }
-
-/* LINK STYLING */
-a:link {
-  color: rgba(255, 0, 0, 0.0)
-}
-
-a:visited {
-  color: rgba(255, 0, 0, 0.0)
-}
-
-a:hover {
-  color: rgba(255, 0, 0, 0.0)
-}
-
-a:active {
-  color: rgba(255, 0, 0, 0.0)
-}
-
