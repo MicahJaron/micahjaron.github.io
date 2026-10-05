@@ -139,20 +139,3 @@ margin: auto;
 #ending {
 font-size: 60%;
 }
-
-/* LINK STYLING */
-a:link {
-  color: white
-}
-
-a:visited {
-  color: white
-}
-
-a:hover {
-  color: #e3e3e3
-}
-
-a:active {
-  color: white
-}
